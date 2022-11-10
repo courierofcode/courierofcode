@@ -5,10 +5,12 @@
 <p align="center">
     <img src="https://i.imgur.com/YccaCai.png" alt="interests">
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Computing;
-  Data%20Science;Information%20Security;
-  Networking;Web%20Development&font=Fira%20Code&center=true&width=440&height=45&color=b98fe2&vCenter=true&size=22&pause=1000"/>
+    <a href="https://github.com/courierofcode">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Computing;
+    Data%20Science;Information%20Security;
+    Networking;Web%20Development&font=Fira%20Code&center=true&width=440&height=45&color=b98fe2&vCenter=true&size=22&pause=1000"/> </a>
 </p>
 
 <!-- Social icons section -->
