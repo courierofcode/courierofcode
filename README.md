@@ -1,9 +1,9 @@
 <p align="center">
     <img src="https://i.imgur.com/WRakS6h.gif" alt="wave" height="20">&nbsp;
-    <img src="https://imgur.com/viCsRGg.png" alt="name" height="20">
+    <img src="https://imgur.com/viCsRGg.png" alt="name" height="25">
 </p>
 <p align="center">
-    <img src="https://imgur.com/RR7hBNn.png" alt="interests" height="20">
+    <img src="https://imgur.com/RR7hBNn.png" alt="interests" height="25">
 </p>
 <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Computing;Data%20Science;Information%20Security;Networking;Web%20Development&font=Fira%20Code&center=true&width=440&height=40&color=b98fe2&vCenter=true&size=25"/> </a>
