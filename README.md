@@ -1,19 +1,13 @@
 <p align="center">
-    <img src="https://i.imgur.com/WRakS6h.gif" alt="wave" width="32px" height="32px">&nbsp; <img src="https://i.imgur.com/5jgrgGO.png" alt="name">
+    <img src="https://i.imgur.com/WRakS6h.gif" alt="wave" height="20">&nbsp;
+    <img src="https://imgur.com/viCsRGg.png" alt="name" height="20">
 </p>
-
 <p align="center">
-    <img src="https://i.imgur.com/YccaCai.png" alt="interests">
+    <img src="https://imgur.com/RR7hBNn.png" alt="interests" height="20">
 </p>
-
 <p align="center">
-    <a href="https://github.com/courierofcode">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Computing;Data%20Science;Information%20Security;Networking;Web%20Development&font=Fira%20Code&center=true&width=440&height=45&color=b98fe2&vCenter=true&size=22&pause=1000"/> </a>
+    <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Computing;Data%20Science;Information%20Security;Networking;Web%20Development&font=Fira%20Code&center=true&width=440&height=40&color=b98fe2&vCenter=true&size=25"/> </a>
 </p>
-
-<!-- Social icons section -->
-<p align="center">
-  </p>
 
 <br/>
 
